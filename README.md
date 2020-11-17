@@ -1,1 +1,2 @@
-# gt_group1
+# group-project1
+Git Instruction

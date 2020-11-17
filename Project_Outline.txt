@@ -1,0 +1,16 @@
+Title: Is it Worth it? 
+
+Team Members: Brandon Townsend, Judd Fowler, Abbey Mercier 
+
+Project Description: We have collected numerous data points related to salaries and the college attended and selected major. Our intent is to determine whether or not it really matters where you go to school and if your school of choice or major affects your salary. 
+
+Research Questions: 
+1. Does where you go to school impact your salary?
+2. Do different regions produce different salaries? 
+3. Does your selected major impact your salary? 
+4. Does the type of school you attend affect your salary? 
+
+Datasets to be used: CSV files (attached)
+
+Rough Breakdown of tasks: extract, clean, then construct graphs
+
